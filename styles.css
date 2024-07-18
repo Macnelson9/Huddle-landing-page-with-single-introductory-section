@@ -100,7 +100,6 @@ a i {
   border-radius: 80%;
   color: #fff;
   font-size: 1rem;
-  margin-top: 30px;
   padding: 10px;
   transition: all 0.2s ease-in;
 }
@@ -110,6 +109,7 @@ a i {
   display: flex;
   gap: 10px;
   justify-content: center;
+  margin-top: 30px;
 }
 
 /* Attribution styles*/
@@ -214,6 +214,7 @@ h1:hover {
 
   .social {
     align-self: flex-end;
+    margin-top: 0;
   }
 }
 
