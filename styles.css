@@ -100,6 +100,7 @@ a i {
   border-radius: 80%;
   color: #fff;
   font-size: 1rem;
+  margin-top: 30px;
   padding: 10px;
   transition: all 0.2s ease-in;
 }
@@ -200,6 +201,10 @@ h1:hover {
 
   button {
     padding: 10px 60px;
+  }
+
+  a i {
+    margin-top: 0;
   }
 
   .copy {
